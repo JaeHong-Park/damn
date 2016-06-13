@@ -129,7 +129,7 @@ public class DrawWindow extends Frame implements MouseListener, MouseMotionListe
 	}
 
 	/*
-	* 마우스를 대르그할 때에는 움직이는 지점까지의 그림이 그때 그때 표현되어야 하기 때문에
+	* 마우스를 드래그할 때에는 움직이는 지점까지의 그림이 그때 그때 표현되어야 하기 때문에
 	* 해당 그림을 그려준다.
 	*/
 	public void mouseDragged(MouseEvent e){
