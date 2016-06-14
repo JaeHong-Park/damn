@@ -10,6 +10,8 @@ public class mainClass {
 		// TODO Auto-generated method stub
 		new DrawWindow();
 		System.out.println("しし");
+		System.out.println("しし");
+		System.out.println("しし");
 	}
 
 }
